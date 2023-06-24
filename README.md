@@ -12,7 +12,7 @@ This project is a web application for managing customers and their accounts. It 
 
 - User authentication and authorization
 - Customer management (Create, Read, Update, Delete)
-- Account management (Create, Read, Update, Delete)
+- Account management (Search)
 - Account operations (Debit, Credit, Transfer)
 - Search functionality
 - Responsive user interface
@@ -63,4 +63,4 @@ To run the digital bank project locally, follow these steps:
 
 ## License
 
-This project is licensed under the @mohamedYoussfi. [@username] ([https://github.com/mohamedYoussfi/]
+This project is licensed under [@username] ([https://github.com/mohamedYoussfi/].

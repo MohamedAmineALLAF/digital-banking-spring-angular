@@ -63,4 +63,4 @@ To run the digital bank project locally, follow these steps:
 
 ## License
 
-This project is licensed under the @mohamedYoussfi.
+This project is licensed under the @mohamedYoussfi. [@username] ([https://github.com/mohamedYoussfi/]

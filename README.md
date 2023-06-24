@@ -12,7 +12,7 @@ This project is a web application for managing customers and their accounts. It 
 
 - User authentication and authorization
 - Customer management (Create, Read, Update, Delete)
-- Account management (Create, Read, Update, Delete)
+- Account management (Search)
 - Account operations (Debit, Credit, Transfer)
 - Search functionality
 - Responsive user interface
@@ -36,12 +36,12 @@ The frontend of the digital bank project is developed using Angular framework. I
 ### Screenshots
 
 1. Customers Page: ![Customers Page](/screenshots/1-customers.png)
-2. Search Functionality: ![Search Functionality](/screenshots/to/search.png)
-3. Add New Customer: ![Add New Customer](/screenshots/new-customer.png)
-4. Delete Customer: ![Delete Customer](/screenshots/delete.png)
-5. Accounts Page: ![Accounts Page](/screenshots/accounts.png)
-6. Debit Operation: ![Debit Operation](/screenshots/debit.png)
-7. Transfer Operation: ![Transfer Operation](/screenshots/transfer.png)
+2. Search Functionality: ![Search Functionality](/screenshots/2-search.png)
+3. Add New Customer: ![Add New Customer](/screenshots/3-newcustomer.png)
+4. Delete Customer: ![Delete Customer](/screenshots/4-delete.png)
+5. Accounts Page: ![Accounts Page](/screenshots/5-accounts.png)
+6. Debit Operation: ![Debit Operation](/screenshots/6-debit.png)
+7. Transfer Operation: ![Transfer Operation](/screenshots/7-transfer.png)
 
 ## Getting Started
 
@@ -57,10 +57,10 @@ To run the digital bank project locally, follow these steps:
    - Install Angular CLI globally.
    - Install project dependencies using `npm install`.
    - Configure the backend API endpoint in the environment file.
-   - Build and run the Angular application.
+   - Build and run the Angular application using `ng serve`.
 4. Access the application in your browser at `http://localhost:4200`.
 
 
 ## License
 
-This project is licensed under the @MohamedYoussfi.
+This project is licensed under [@username] ([https://github.com/mohamedYoussfi/].

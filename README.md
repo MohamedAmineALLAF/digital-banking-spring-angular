@@ -37,7 +37,7 @@ The frontend of the digital bank project is developed using Angular framework. I
 
 1. Customers Page: ![Customers Page](/screenshots/1-customers.png)
 2. Search Functionality: ![Search Functionality](/screenshots/2-search.png)
-3. Add New Customer: ![Add New Customer](/screenshots/3-new-customer.png)
+3. Add New Customer: ![Add New Customer](/screenshots/3-newcustomer.png)
 4. Delete Customer: ![Delete Customer](/screenshots/4-delete.png)
 5. Accounts Page: ![Accounts Page](/screenshots/5-accounts.png)
 6. Debit Operation: ![Debit Operation](/screenshots/6-debit.png)
@@ -63,4 +63,4 @@ To run the digital bank project locally, follow these steps:
 
 ## License
 
-This project is licensed under the @MohamedYoussfi.
+This project is licensed under the @mohamedYoussfi.
